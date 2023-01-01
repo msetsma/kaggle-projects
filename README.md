@@ -1,2 +1,7 @@
 # kaggle-projects
-Copy of my Kaggle projects.
+
+---
+
+[Kaggle Profile](https://www.kaggle.com/mitchellsetsma)
+
+Copy of my Kaggle projects.  
